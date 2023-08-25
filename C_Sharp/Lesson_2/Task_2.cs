@@ -5,7 +5,7 @@
 */
 
 using System;
-class Program
+class Task2_2
 {
     static void Main()
     {

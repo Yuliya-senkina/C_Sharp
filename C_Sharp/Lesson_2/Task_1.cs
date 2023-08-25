@@ -9,6 +9,7 @@ class Task_2_1
 {
     static void Main()
     {
+
         Console.Write("Введите количество элементов массива: \n");
         int n = int.Parse(Console.ReadLine());
         int[] a = new int[n];
