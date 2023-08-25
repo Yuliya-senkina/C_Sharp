@@ -1,0 +1,14 @@
+﻿*.xml
+*.json
+*.sln
+*.csproj
+*.dll
+*.pdb
+*.props
+*.targets
+/Debug
+//obj
+//xs
+//.vs/
+C_Sharp.sln
+C_Sharp.csproj
